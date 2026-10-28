@@ -1,0 +1,22 @@
+# Compiled programs
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build folders
+build/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# VS Code temporary files
+.vscode/
